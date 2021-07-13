@@ -1,0 +1,14 @@
+[
+    {
+        "Code": "en-US",
+        "Name": "United States English"
+    },
+    {
+        "Name":"Canada English",
+        "Code":"en-CA"
+    },
+    {
+        "Name":"Canada French",
+        "Code":"fr-CA"
+    }
+]
